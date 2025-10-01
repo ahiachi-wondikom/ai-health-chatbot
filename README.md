@@ -9,9 +9,9 @@
 Clone the repository
 
 ```bash
-git clone: https://github.com/Miss-Marvis/ai-health-chatbot.git
+git clone:https://github.com/ahiachi-wondikom/ai-health-chatbot.git 
 ```
-
+   
 ---
 
 ### STEP 01 – Create a conda environment after opening the repository
@@ -25,7 +25,7 @@ conda activate medibot
 ```
 
 ---
-
+  
 ### STEP 02 – Install the requirements
 
 ```bash
